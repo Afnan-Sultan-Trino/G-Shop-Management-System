@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AS\\source\\repos\\G_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|c:\\users\\as\\source\\repos\\g_shop\\g_shop\\formsalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formsalesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\usalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\usalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\usalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\usalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uactionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uactionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uactionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uactionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uactionusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uactionusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uactionusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uactionusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\ucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\ucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\ucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\ucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uadminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uadminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\usetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formsalesman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formsalesman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\uuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\uuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\udashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\udashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|C:\\Users\\AS\\source\\repos\\G_Shop\\g_shop\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519B4D4-0191-4687-A6CD-D90FFB51503B}|G_Shop\\G_Shop.csproj|solutionrelative:g_shop\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSalesman.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormSalesman.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormSalesman.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormSalesman.cs [Design]",
+              "RelativeToolTip": "G_Shop\\FormSalesman.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:14:22.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCart.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormCart.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormCart.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormCart.cs",
+              "RelativeToolTip": "G_Shop\\FormCart.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAYwFgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:21:01.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uProduct.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uProduct.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uProduct.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:42:57.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uProduct.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uProduct.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uProduct.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uProduct.cs",
+              "RelativeToolTip": "G_Shop\\uProduct.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:43:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "uActionProduct.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionProduct.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uActionProduct.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionProduct.cs",
+              "RelativeToolTip": "G_Shop\\uActionProduct.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAmwO4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:12:31.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\Program.cs",
+              "RelativeDocumentMoniker": "G_Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\Program.cs",
+              "RelativeToolTip": "G_Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:41:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uSalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSalesReport.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uSalesReport.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSalesReport.cs",
+              "RelativeToolTip": "G_Shop\\uSalesReport.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:57:04.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormCart.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormCart.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormCart.cs [Design]",
+              "RelativeToolTip": "G_Shop\\FormCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:19:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "G_Shop\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:45:57.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "uActionProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionProduct.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uActionProduct.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionProduct.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uActionProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:34:33.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "uSalesReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSalesReport.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uSalesReport.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSalesReport.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uSalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:14:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\DataAccess.cs",
+              "RelativeDocumentMoniker": "G_Shop\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\DataAccess.cs",
+              "RelativeToolTip": "G_Shop\\DataAccess.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:35:40.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.cs [Design]",
+              "RelativeToolTip": "G_Shop\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T22:51:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "uActionUsers.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionUsers.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uActionUsers.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionUsers.cs",
+              "RelativeToolTip": "G_Shop\\uActionUsers.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAADwvzsBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:14:39.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.cs",
+              "RelativeToolTip": "G_Shop\\FormLogin.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv10AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:46:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "uActionUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionUsers.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uActionUsers.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uActionUsers.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uActionUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:14:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "uCategory.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uCategory.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uCategory.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uCategory.cs",
+              "RelativeToolTip": "G_Shop\\uCategory.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAUwNEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:58:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "uCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uCategory.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uCategory.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uCategory.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:14:38.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "uAdminProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uAdminProfile.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uAdminProfile.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uAdminProfile.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uAdminProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:34:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormAdmin.cs",
+              "RelativeToolTip": "G_Shop\\FormAdmin.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:30:20.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "uSetting.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSetting.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uSetting.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSetting.cs",
+              "RelativeToolTip": "G_Shop\\uSetting.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:11:46.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormSalesman.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormSalesman.Designer.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormSalesman.Designer.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormSalesman.Designer.cs",
+              "RelativeToolTip": "G_Shop\\FormSalesman.Designer.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAIAwwO8BAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:33:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "uSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSetting.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uSetting.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uSetting.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:07:41.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "uUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uUser.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uUser.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uUser.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:07:38.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\Session.cs",
+              "RelativeDocumentMoniker": "G_Shop\\Session.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\Session.cs",
+              "RelativeToolTip": "G_Shop\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T23:25:54.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "uDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uDashboard.cs",
+              "RelativeDocumentMoniker": "G_Shop\\uDashboard.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\uDashboard.cs [Design]",
+              "RelativeToolTip": "G_Shop\\uDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:14:36.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "G_Shop\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\AS\\source\\repos\\G_Shop\\G_Shop\\FormLogin.Designer.cs",
+              "RelativeToolTip": "G_Shop\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv4QAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:53:17.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
