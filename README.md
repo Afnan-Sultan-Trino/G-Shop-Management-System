@@ -4,6 +4,31 @@ A desktop-based application designed to streamline gadget shop operations by cen
 
 This project was developed as a requirement for the **CSC2210: Object Oriented Programming 2** course at **American International University-Bangladesh (AIUB)**.
 
+## 📸 Screenshots
+
+**Login Screen**
+![Login Screen](Login.png)
+
+**Admin Dashboard & Profile**
+<table>
+  <tr>
+    <td><img src="AdminDashboard.png" alt="Admin Dashboard" width="400"/></td>
+    <td><img src="AdminProfile.png" alt="Admin Profile" width="400"/></td>
+  </tr>
+</table>
+
+**Product CRUD Operations**
+![CRUD Operations](CRUD_Opt.png)
+
+**Category Management**
+![Category Management](Category.png)
+
+**Salesman View**
+![Salesman View](Salesman.png)
+
+**Billing & Invoice**
+![Billing](Billing.png)
+
 ## 🛠️ Tech Stack
 - **Frontend/GUI:** C# (.NET Framework, Windows Forms)
 - **Backend/Database:** Microsoft SQL Server (Database: `ProductDB`)
